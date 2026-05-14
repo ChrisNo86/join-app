@@ -1,0 +1,11 @@
+# Ordner ignorieren
+.vscode/
+style.css
+style.css.map
+node_modules/
+docs/
+
+# Dateien ignorieren
+jsdoc.json
+package-lock.json
+package.json
