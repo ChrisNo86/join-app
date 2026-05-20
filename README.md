@@ -64,3 +64,16 @@ Example:
 git clone https://github.com/ChrisNo86/Join.git
 cd Join
 open index.html
+
+🎓 Project Context
+
+This project was developed during the Developer Akademie training program
+to strengthen practical frontend development skills, application structuring,
+responsive design implementation and interactive JavaScript workflows.
+
+👨‍💻 Author
+
+Christian Noack
+https://christian-noack.com
+
+Software Architecture · Engineering
