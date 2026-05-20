@@ -54,7 +54,7 @@ The project emphasizes:
 
 Example:
 
-![Project Preview]([https://raw.githubusercontent.com/ChrisNo86/Join/refs/heads/main/preview.jpg](https://github.com/ChrisNo86/join-app/blob/main/preview.jpg))
+![Project Preview](https://github.com/ChrisNo86/join-app/blob/171329768b2a25546160342764b31ccbcb51c295/assets/img/preview.jpg)
 
 ---
 
