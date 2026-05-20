@@ -1,41 +1,53 @@
-# 📅 Join - Kanban Board
+📌 Join
 
-![](https://raw.githubusercontent.com/MirkoRinke/Developer-Akademie-Join/refs/heads/main/preview.jpg)
+Modern Kanban task management application built with HTML, SCSS and JavaScript.
+Developed as part of the Developer Akademie training program.
 
-Welcome to **Join**, our second group project as part of the Developer Academy! This web-based Kanban board helps you organize tasks, manage workflows, and improve productivity. With an intuitive drag-and-drop interface, you can easily move tasks between different stages like "To-Do", "In Progress", "Await feedback" and "Done".
+🚀 Tech Stack
 
-## 📋 Features
-- **Task Management:** Create, edit, and delete tasks.
-- **Kanban Workflow:** Move tasks between stages with drag-and-drop functionality.
-- **User-Friendly Interface:** Simple, clean design for better project visualization.
+HTML · SCSS · JavaScript · Responsive Design · Drag & Drop
 
-## 🛠️ Technologies Used
-- **HTML5**: Structure and content of the web application.
-- **SCSS**: Preprocessed CSS for more maintainable and modular styling.
-- **JavaScript**: Core logic for task management and dynamic interactions.
+📌 Overview
 
-## 🚀 Getting Started
+Join is a responsive Kanban-style project management application focused on intuitive task organization and clean frontend architecture.
 
-To run this project locally, follow these steps:
+The project emphasizes:
 
-### 🔗 1. Clone the repository
-```bash
-git clone https://github.com/MirkoRinke/Developer-Akademie-Join.git
-```
+Modular JavaScript structure
+Responsive UI development
+Dynamic task management
+Drag & Drop interactions
+Scalable component organization
+Clean and maintainable code structure
+User-focused interface design
+🎯 Features
+Kanban board workflow
+Drag & Drop task management
+Create, edit and delete tasks
+Task priorities and categories
+Contact assignment system
+Due date management
+Responsive sidebar and navigation
+Interactive overlays and dialogs
+Legal pages (Imprint & Privacy Policy)
+Optimized desktop and mobile experience
+🖥 Preview
 
-### 📂 3. Navigate to the project directory: 
-   ```bash
-   cd Developer-Akademie-Join
-   ```
+Example:
 
-### 📂 4. Open the project
-Open the `index.html` file in your web browser to view the application.
+⚙ Installation
+git clone https://github.com/ChrisNo86/Join.git
+cd Join
+open index.html
+🎓 Project Context
 
-### 🤝 Contributing
-This project is part of a learning process, but contributions and suggestions are always welcome!
+This project was developed during the Developer Akademie training program
+to strengthen practical frontend development skills, application structuring,
+responsive design implementation and interactive JavaScript workflows.
 
-### 👨‍💻 Contributors
-- [Mirko Rinke](https://github.com/MirkoRinke)
-- [David Dev](https://github.com/DavidDev25)
-- [Richard Streu](https://github.com/RichardStreu)
-- [Marco Lapiello](https://github.com/marcoLapiello)
+👨‍💻 Author
+
+Christian Noack
+christian-noack.com
+
+Software Architecture · Engineering
